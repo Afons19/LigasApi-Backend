@@ -215,7 +215,7 @@ Aceda o diretório:
 cd backend
 ```
 
-Crie ambiente virtual:
+Crie o ambiente virtual:
 ```bash
 python -m venv venv
 ```
