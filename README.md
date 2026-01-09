@@ -1,7 +1,7 @@
 # Documentação do Backend
 ---
 
-# LigaAPI-Backend
+# LigasAPI-Backend
 ## Sistema de Gestão de Ligas Desportivas (Futebol)
 
 **Ano letivo: 2025/2026**
