@@ -53,7 +53,7 @@ backend/
 ├── manage.py
 ├── db.sqlite3
 │
-├── backend/
+├── setutp/
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
